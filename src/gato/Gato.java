@@ -15,6 +15,9 @@ public class Gato {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int i = 0;
+        i++;
+        System.out.println(i);
     }
     
 }
